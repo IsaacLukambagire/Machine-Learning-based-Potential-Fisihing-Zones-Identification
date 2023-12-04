@@ -1,4 +1,4 @@
-# Machine Learning based Potential Fisihing Zones Identification Uising Python
+# Machine Learning based Potential Fisihing Zones Identification Using Python
 
 ## Context and Research Gap
 This project indicates a combination of data exploration, machine learning modeling, and result visualization in a scientific or environmental context to identify potential fishing zones. 
