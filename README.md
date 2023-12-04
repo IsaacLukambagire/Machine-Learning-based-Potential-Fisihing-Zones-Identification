@@ -5,7 +5,7 @@ This project indicates a combination of data exploration, machine learning model
 The aim was to detect potential fishing zones using data accumulated over the past years since the detection of the potential fishing zones can be a challenge sometimes, for instance, when there is cloud cover obstruction making it hard to depend on satellite data. Here, i employ various machine learning models to identify potential fishing zones for india  
 
 ## Brief Summary of the Project
-The project involves data analysis and machine learning. Here are some key aspects.
+The project involves data analysis and machine learning models. Here are some key aspects.
 
 Data Processing and Analysis: The project involves processing and analyzing a dataset that includes features related to sea surface temperature, chlorophyll, relative humidity, sea level pressure, air temperature, total cloudiness, and total fish catch data. Various Python libraries, such as pandas, NumPy, and Matplotlib, are used for data manipulation, analysis, and visualization.
 
